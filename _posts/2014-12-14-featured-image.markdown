@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Featured Image"
+title:  "我"
 date:   2014-12-14
 image: touring.jpg
 ---
