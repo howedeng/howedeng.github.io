@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example Post Formatting"
+title:  "梁慌慌"
 date:   2014-12-15
 ---
 
