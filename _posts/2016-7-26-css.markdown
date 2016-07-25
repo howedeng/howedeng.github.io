@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "html/css position:absolute绝对布局水平垂直居中方法"
+date:   2016-7-26
+---
+
+一般子元素居中方法
+
+`
+.child-element {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  margin: 0 auto;
+}
+
+`
