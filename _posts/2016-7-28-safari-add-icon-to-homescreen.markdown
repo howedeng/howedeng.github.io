@@ -23,10 +23,14 @@ description: 通过safari的添加到主屏幕，让你的web app更像native ap
 
 {% highlight html %}
 <!-- 自定义各种尺寸图标 ,这里偷懒一下就用一张 -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="imgs/icon.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="imgs/icon.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="imgs/icon.png">
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="imgs/icon.png">
+<link rel="apple-touch-icon-precomposed" 
+      sizes="144x144" href="imgs/icon.png">
+<link rel="apple-touch-icon-precomposed" 
+      sizes="114x114" href="imgs/icon.png">
+<link rel="apple-touch-icon-precomposed" 
+      sizes="72x72" href="imgs/icon.png">
+<link rel="apple-touch-icon-precomposed" 
+      sizes="57x57" href="imgs/icon.png">
 {% endhighlight %}
 
 
