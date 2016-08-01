@@ -117,7 +117,7 @@ description: html5已经不推荐使用marquee来实现滚动，下面利用css3
 
 
 #### css写法
-{% highlight html %}
+{% highlight css %}
 .marquee {
 width:600px;
 padding:0.5em 0;
