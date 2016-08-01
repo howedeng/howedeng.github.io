@@ -4,8 +4,17 @@
 // Reset using Normalize
 @import "normalize";
 
+@font-face {
+  font-family: monaco;
+  src: url("/assets/font/monaco.ttf");
+}
+
+body {
+  margin: 0 !important;
+}
+
 // Import fonts from Google
-@import url("../_includes/monaco.css");
+// @import url("../_includes/monaco.css");
 // @import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
 
 // Site configuration
