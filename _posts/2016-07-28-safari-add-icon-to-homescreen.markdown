@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "html/css ios Webapp添加图标到主屏幕"
-date:   2016-7-28i
+date:   2016-07-28
 image: iphone.jpg
 description: 通过safari的添加到主屏幕，让你的web app更像native app
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "html/css 通用布局水平垂直居中方法"
-date:   2016-7-26
+date:   2016-07-26
 image: css.jpg
 description: 解决position:absolute元素居中问题，兼容绝大部分浏览器
 ---
