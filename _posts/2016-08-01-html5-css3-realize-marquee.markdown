@@ -119,25 +119,25 @@ description: html5已经不推荐使用marquee来实现滚动，下面利用css3
 #### css写法
 {% highlight css %}
 .marquee {
-width:600px;
-padding:0.5em 0;
-overflow:hidden;
-background-color:#f6f6f6;
-margin-bottom:10px;
-position:relative;
+    width:600px;
+    padding:0.5em 0;
+    overflow:hidden;
+    background-color:#f6f6f6;
+    margin-bottom:10px;
+    position:relative;
 }
 
 .marquee p:after {
-content:"";
-white-space:nowrap;
-padding-right:50px;
+    content:"";
+    white-space:nowrap;
+    padding-right:50px;
 }
 
 .marquee p {
-margin:0;
-padding-left:600px;
-display:inline-block;
-white-space:nowrap;
+    margin:0;
+    padding-left:600px;
+    display:inline-block;
+    white-space:nowrap;
 	-webkit-animation-name:marquee;
 	-webkit-animation-timing-function:linear;
 	-webkit-animation-duration:10s;
@@ -160,24 +160,24 @@ white-space:nowrap;
 	animation-iteration-count:infinite;
 }
 @-webkit-keyframes marquee {
-  from   { -webkit-transform: translate(0%);}
-  99%,to { -webkit-transform: translate(-100%);}
+    from   { -webkit-transform: translate(0%);}
+    99%,to { -webkit-transform: translate(-100%);}
 }
 @-moz-keyframes marquee {
-  from   { -moz-transform: translate(0%);}
-  99%,to { -moz-transform: translate(-100%);}
+    from   { -moz-transform: translate(0%);}
+    99%,to { -moz-transform: translate(-100%);}
 }
 @-ms-keyframes marquee {
-  from   { -ms-transform: translate(0%);}
-  99%,to { -ms-transform: translate(-100%);}
+    from   { -ms-transform: translate(0%);}
+    99%,to { -ms-transform: translate(-100%);}
 }
 @-o-keyframes marquee {
-  from   { -o-transform: translate(0%);}
-  99%,to { -o-transform: translate(-100%);}
+    from   { -o-transform: translate(0%);}
+    99%,to { -o-transform: translate(-100%);}
 }
 @keyframes marquee {
-  from   { transform: translate(0%);}
-  99%,to { transform: translate(-100%);}
+    from   { transform: translate(0%);}
+    99%,to { transform: translate(-100%);}
 }
 {% endhighlight %}
 
