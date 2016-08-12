@@ -13,11 +13,11 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: http://www.apphack.cn
  # - title: About
  #   url: /about
- - title: Contact
-   url: /contact
+ - title: Blog
+   url: /index.html
 
 social:
    github: howedeng

@@ -25,11 +25,11 @@ $grey:   #aaa;
 $black:  #111;
 
 // Color variables
-$primary-color: seagreen;
+$primary-color: #333;
 $secondary-color: #233E5B;
 $tertiary-color: #aaa;
 $link-color: $primary-color;
-$background-color: seagreen;
+$background-color: #666;
 
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.
@@ -37,6 +37,10 @@ $info-color: $blue; // Good color for success etc.
 $warning-color: $orange; // Good color for success etc.
 $subtle-color: $grey; // Subtle color for subtle text
 
+// Color posts
+$posts_title_color: #000;
+$posts_title_hover_color: lighten(black,30%);
+$posts_description_color: lighten(#343642, 10%);
 
 /***************
 CONSISTENT SETTINGS
