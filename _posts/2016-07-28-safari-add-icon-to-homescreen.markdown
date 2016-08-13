@@ -4,6 +4,7 @@ title:  "ios html5添加图标到主屏幕"
 date:   2016-07-28
 image: iphone.jpg
 description: 通过safari的添加到主屏幕，让你的web app更像native app
+tags: [ios, add-to-homescreen, html5]
 ---
 
 #### 设配屏幕大小并且去掉safari的地址栏，状态栏
