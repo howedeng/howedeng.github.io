@@ -18,7 +18,7 @@ navigation:
  #   url: /about
  - title: Android
    url: /android
-- title: Apple
+ - title: Apple
    url: /apple
  - title: Html
    url: /html
