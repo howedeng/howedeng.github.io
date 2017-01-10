@@ -10,11 +10,11 @@ description: 移动开发技术收集分享站
   <ul class="posts noList">
 
 
-    {% for tag in site.tags %}
+    {% for cate in site.categories %}
 
-      {% if tag[0] == 'javascript' %}
+      {% if cate[0] == 'apple' %}
 
-        {% for post in tag[1] %}
+        {% for post in cate[1] %}
         <li>
           <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
           <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>

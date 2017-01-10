@@ -5,7 +5,7 @@ date:   2016-08-01
 image: fruits.jpg
 description: html5已经不推荐使用marquee来实现滚动，下面利用css3来实现marquee滚动效果
 category: html
-tags: [css3, marquee, html5]
+tags: [css, marquee, html]
 ---
 
 #### css3实现marquee效果
@@ -182,8 +182,3 @@ tags: [css3, marquee, html5]
   99%,to { transform: translate(-100%);}
 }
 {% endhighlight %}
-
-
-
-
-
