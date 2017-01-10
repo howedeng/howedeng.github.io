@@ -4,6 +4,7 @@ title:  "Android BroadcastReceiver 1 广播简介与使用方法"
 date:   2013-09-23
 image: password.jpg
 description: 广播的简单使用
+category: android
 tags: [android, BroadcastReceiver, onReceive]
 
 ---

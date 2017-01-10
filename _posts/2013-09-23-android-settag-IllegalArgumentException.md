@@ -4,6 +4,7 @@ title:  "Android setTag抛出IllegalArgumentException异常"
 date:   2013-09-23
 image: password.jpg
 description: java.lang.IllegalArgumentException:The key must be an application-specific resource id
+category: android
 tags: [android, setTag, IllegalArgumentException, Exception]
 
 ---

@@ -4,6 +4,7 @@ title:  "Android EditText设置密码可见性"
 date:   2013-08-21
 image: password.jpg
 description: 实现切换输入框里密码的可见性
+category: android
 tags: [android, EditText, setInputType, inputType, Password]
 
 ---

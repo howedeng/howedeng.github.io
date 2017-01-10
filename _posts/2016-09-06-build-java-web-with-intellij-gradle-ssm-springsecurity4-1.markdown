@@ -4,6 +4,7 @@ title:  "Gradle构建SSM环境一"
 date:   2016-09-06
 image: fruits.jpg
 description: 使用Gradle构建整合Spring,SpringMvc,Mybatis
+category: java
 tags: [Gradle, Spring, SpringSecurity, Mybatis, Intellij, SpringMVC, Java, Jsp, JavaWeb]
 
 ---

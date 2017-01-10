@@ -4,6 +4,7 @@ title:  "Android 异常:Resources NotFoundException"
 date:   2013-08-19
 image: resources.jpg
 description: setText抛出Resources$NotFoundException:String resource ID异常
+category: android
 tags: [android, Resources, NotfoundException, Exception, Button, TextView, setText]
 
 ---

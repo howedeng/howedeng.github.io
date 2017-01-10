@@ -4,6 +4,7 @@ title:  "Android 自定义布局属性"
 date:   2013-09-22
 image: password.jpg
 description: 自定义控件时难免要添加一些自定义属性
+category: android
 tags: [android, custom, attrs, format]
 
 ---

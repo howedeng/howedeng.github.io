@@ -4,6 +4,7 @@ title:  "Android Json数据解析处理"
 date:   2013-08-14
 image: json.jpg
 description: 常用的Json解析方法：JsonObject, Gson, FastJson
+category: android
 tags: [android, gson, fastjson, jsonobject, parse]
 
 ---
@@ -51,7 +52,7 @@ public class Student{
   private String name;
 
   //这里省略了setter和getter方法
-  
+
 }
 {% endhighlight %}
 
@@ -64,7 +65,7 @@ public class Clazz{
   private List<Student> students;
 
   //这里省略了setter和getter方法
-  
+
 }
 {% endhighlight %}
 

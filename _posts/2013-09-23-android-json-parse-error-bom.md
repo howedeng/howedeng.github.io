@@ -4,7 +4,7 @@ title:  "Android 2.3以下Json解析错误(bom)"
 date:   2013-09-23
 image: password.jpg
 description: 2.3及以下的系统解析json时报错:JSONException:Value of type java.lang.String cannot be converted to JSONObject
-
+category: android
 tags: [android, json, JSONException, bom, android2.3]
 
 ---

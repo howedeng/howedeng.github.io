@@ -4,6 +4,7 @@ title:  "Android hashcode() 和 equals()作用详解"
 date:   2013-09-21
 image: password.jpg
 description: 重写hashcode和equals方法来自定义对象比较方式
+category: android
 tags: [android, equals, hashcode, instanceof]
 
 ---
