@@ -14,10 +14,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ # - title: About
+ #   url: /about
  - title: Android
-   url: /android.html
- # - title: Blog
- #   url: /index.html
+   url: /android
 
 social:
    github: howedeng
