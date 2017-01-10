@@ -13,7 +13,7 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: http://www.apphack.cn
+   url: /index.html
  # - title: About
  #   url: /about
  - title: Blog
