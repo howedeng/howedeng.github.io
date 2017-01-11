@@ -10,7 +10,7 @@ tags: [android, sqlite, SqliteOpenHelper, transaction]
 ---
 
 ## 创建数据库帮助类
-	继承SQLiteOpenHelper
+继承SQLiteOpenHelper
 
 {% highlight java %}
 public class DBHelper extends SQLiteOpenHelper {
@@ -113,7 +113,7 @@ public class DBDao {
 }
 {% endhighlight %}
 
-## 事物
+## 事务
 
 {% highlight java %}
 //1.打开数据库事务
