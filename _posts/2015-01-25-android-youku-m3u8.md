@@ -3,7 +3,7 @@ layout: post
 title:  "获取优酷视频M3u8文件"
 date:   2015-01-25
 image: password.jpg
-description: RecyclerVIew 滑动到底部加载更多数据实现
+description: 获取优酷真实视频地址，android/ios通用
 categories: [android,apple]
 tags: [android,ios, m3u8, youku, WebView, video]
 
@@ -14,7 +14,9 @@ tags: [android,ios, m3u8, youku, WebView, video]
 
 ## 获取优酷视频链接或者ID
 e.g
+
 `http://v.youku.com/v_show/id_XNjQyNjE3MjY4.html`
+
 XNjQyNjE3MjY4 就是相应地Id,至于怎样获取看你们自己了
 
 ## 获取M3U8文件
@@ -87,4 +89,5 @@ final class InJavaScriptLocalObj {
 {% endhighlight %}
 
 剩下的就是读取m3u8文件并解析成一个视频地址列表，按次序播放，该方法ios通用
+
 [DEMO](https://pan.baidu.com/share/init?shareid=88167913&uk=3040070900)(k8pr)
