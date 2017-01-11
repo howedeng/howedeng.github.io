@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Android BroadcastReceiver 2 常用系统广播"
-date:   2013-09-23
+date:   2013-09-30
 image: password.jpg
-description: 广播的简单使用
+description: 好玩的系统广播
 category: android
 tags: [android, BroadcastReceiver, onReceive]
 
