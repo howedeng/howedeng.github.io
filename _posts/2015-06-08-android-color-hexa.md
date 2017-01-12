@@ -13,9 +13,6 @@ tags: [android, color, hexa]
 {% highlight java %}
 //color 值转 hexa 字符串
 String strColor = String.format("#%06X", 0xFFFFFF & intColor);
-
-
 //hexa 字符串转 color 值
 int color = Color.parseColor("#87CEFA");
 {% endhighlight %}
-
