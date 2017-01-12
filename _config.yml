@@ -15,11 +15,11 @@ navigation:
  - title: Home
    url: /index.html
  - title: Android
-   url: /android
+   url: /category_android
  - title: Apple
-   url: /apple
+   url: /category_apple
  - title: Html
-   url: /html
+   url: /category_html
 
 social:
    github: howedeng
