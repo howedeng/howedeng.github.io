@@ -5,12 +5,18 @@
 @import "normalize";
 
 @font-face {
-  font-family: monaco;
-  src: url("/assets/font/monaco.ttf");
+  font-family: Yahei;
+  src: url("/assets/font/Yahei-Regular.ttf");
+}
+
+@font-face {
+  font-family: Lato;
+  src: url("/assets/font/Lato-Regular.ttf");
 }
 
 body {
   margin: 0 !important;
+  letter-spacing:1px;
 }
 
 // Import fonts from Google

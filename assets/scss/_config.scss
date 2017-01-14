@@ -38,9 +38,9 @@ $warning-color: $orange; // Good color for success etc.
 $subtle-color: $grey; // Subtle color for subtle text
 
 // Color posts
-$posts_title_color: #000;
+$posts_title_color: #444444;
 $posts_title_hover_color: lighten(black,30%);
-$posts_description_color: lighten(#343642, 10%);
+$posts_description_color: rgba(68, 68, 68, .6);
 
 /***************
 CONSISTENT SETTINGS
@@ -56,5 +56,5 @@ $line-height: 44px; // Consistent height for buttons, inputs etc.
 TYPE SETTINGS
 ***************/
 
-$sans-serif: "monaco", Helvetica, Arial, sans-serif;
-$serif: "monaco", Georgia, Times, serif;
+$sans-serif: "Lato","Yahei", Helvetica, Arial, sans-serif;
+$serif: "Lato", "Yahei", Georgia, Times, serif;
